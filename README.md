@@ -1,0 +1,2 @@
+# pubg
+development about pubg 
